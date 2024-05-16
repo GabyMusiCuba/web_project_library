@@ -255,15 +255,11 @@
 .person_name_cannon {
   bottom: 18px;
   right: 216px;
-  display: flex;
-  flex-direction: column-reverse;
 }
 
 .person_name_mitchell {
   left: 142px;
   bottom: 82px;
-  display: flex;
-  flex-direction: column-reverse;
 }
 
 .person_name_tarter {
