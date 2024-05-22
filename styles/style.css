@@ -350,6 +350,7 @@
 .footer__column_content_hours {
   margin-left: auto;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
 }
 
 .footer__column_content_social {
@@ -374,7 +375,7 @@
 
 .footer__list-item {
   font-size: 16px;
-  margin-top: 16px;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
