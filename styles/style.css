@@ -351,12 +351,14 @@
 }
 
 .footer__column_content_hours {
+  color: white;
   margin-left: auto;
   font-family: Arial, Helvetica, sans-serif;
   font-size: small;
 }
 
 .footer__column_content_social {
+  color: white;
   margin-left: 80px;
 }
 
@@ -381,11 +383,15 @@
   margin-bottom: 16px;
   display: flex;
   align-items: center;
-  column-gap: 10px;
+  color: white;
 }
 
 .footer__column-link {
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  color: white;
 }
 
 .footer__social-icon {
