@@ -341,10 +341,13 @@
   display: flex;
   flex-direction: column;
   padding: 60px 80px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer__columns {
   display: flex;
+  justify-content: space-between;
+  column-gap: 80px;
 }
 
 .footer__column_content_hours {
@@ -376,11 +379,13 @@
 .footer__list-item {
   font-size: 16px;
   margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
 }
 
 .footer__column-link {
   text-decoration: none;
-  margin-right: 10px;
 }
 
 .footer__social-icon {
